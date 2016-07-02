@@ -1,0 +1,14 @@
+layout_spectrum: 0.7522954563610256
+typography_spectrum: 0.8045470125507563
+color:
+  brandStrength: 0.9714233309496194
+  lightness: 0.9291335851885378
+  saturation: 0.35357810324057937
+  rhythmicContrast: 0.24280852312222123
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: solpak
